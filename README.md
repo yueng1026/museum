@@ -66,11 +66,11 @@
 
 - 即时识别（语音识别）
 
-![1](imge/1.1即时识别.png)
+![1](https://github.com/yueng1026/museum/blob/master/imge/1.1%E5%8D%B3%E6%97%B6%E8%AF%86%E5%88%AB.png)
 
 - 展区展品介绍（语音识别、语音合成）
 
-![2](imge/1.2展区展品介绍.png)
+![2](https://github.com/yueng1026/museum/blob/master/imge/1.2%E5%B1%95%E5%8C%BA%E5%B1%95%E5%93%81%E4%BB%8B%E7%BB%8D.png)
 
 - 广播通知（语音合成）
 
